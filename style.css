@@ -1,0 +1,23 @@
+#top,#bottom{
+  font-family: "Time New Roman","Time",serif;
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+}
+.name{
+  color: blue;
+  font-size: 36px;
+}
+th,td{
+  font-family: "Arial",sans-serif;
+  font-size: 20px;
+  text-align: center;
+  border: 3px solid green;
+  width: 100px;
+}
+table{
+  border: 3px solid red;
+  border-collapse: collapse;
+  background: yellow;
+  margin:auto;
+}
